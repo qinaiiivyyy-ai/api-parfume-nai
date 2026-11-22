@@ -1,0 +1,305 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Elie Saab",
+      "description": "Aroma floral yang lembut dan feminin, cocok dipakai sehari-hari.",
+      "category": "women",
+      "price": 599000,
+      "rating": 4.7,
+      "stock": 22,
+      "thumbnail": "images/elie-saab.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Chloe green",
+      "description": "Wangi segar bernuansa hijau dengan sentuhan bunga yang ringan dan bersih.",
+      "category": "women",
+      "price": 559000,
+      "rating": 4.4,
+      "stock": 39,
+      "thumbnail": "images/chloe-green.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Rose Exposed",
+      "description": "Aroma mawar yang berani dan hangat, memberi kesan elegan dan memikat.",
+      "category": "women",
+      "price": 1000000,
+      "rating": 4.1,
+      "stock": 56,
+      "thumbnail": "images/rose-exposed.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Versace Crystal Noir",
+      "description": "Wangi floral oriental yang mewah dan misterius, pas untuk acara malam.",
+      "category": "women",
+      "price": 1500000,
+      "rating": 4.8,
+      "stock": 17,
+      "thumbnail": "images/versace-crystal-noir.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tega Knot",
+      "description": "Aroma elegan dengan sentuhan hangat dan mewah, berkesan berkelas.",
+      "category": "women",
+      "price": 1900000,
+      "rating": 4.5,
+      "stock": 34,
+      "thumbnail": "images/tega-knot.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Yellow daisy",
+      "description": "Wangi bunga daisy yang ceria dan segar, bernuansa musim panas.",
+      "category": "women",
+      "price": 1500000,
+      "rating": 4.2,
+      "stock": 51,
+      "thumbnail": "images/yellow-daisy.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Scarlet popy",
+      "description": "Aroma bunga poppy yang manis dan berani dengan kesan hangat.",
+      "category": "women",
+      "price": 999000,
+      "rating": 4.9,
+      "stock": 12,
+      "thumbnail": "images/scarlet-popy.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Daisy Love",
+      "description": "Wangi floral manis yang lembut dan romantis, cocok untuk hari santai.",
+      "category": "women",
+      "price": 899000,
+      "rating": 4.6,
+      "stock": 29,
+      "thumbnail": "images/daisy-love.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Butterfly love",
+      "description": "Aroma manis dan feminin yang ringan, bernuansa ceria dan playful.",
+      "category": "women",
+      "price": 650000,
+      "rating": 4.3,
+      "stock": 46,
+      "thumbnail": "images/butterfly-love.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Ocean Gioia",
+      "description": "Wangi segar seperti laut dengan sentuhan bunga, terasa jernih dan mewah.",
+      "category": "women",
+      "price": 5000000,
+      "rating": 4,
+      "stock": 7,
+      "thumbnail": "images/ocean-gioia.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Pink Daisy",
+      "description": "Aroma floral fruity yang ceria dengan kesan manis dan segar.",
+      "category": "women",
+      "price": 3000000,
+      "rating": 4.7,
+      "stock": 24,
+      "thumbnail": "images/pink-daisy.jpg"
+    },
+    {
+      "id": 12,
+      "title": "My Wayy",
+      "description": "Wangi bunga putih yang lembut dan elegan, nyaman untuk pemakaian harian.",
+      "category": "women",
+      "price": 559000,
+      "rating": 4.4,
+      "stock": 41,
+      "thumbnail": "images/my-wayy.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Muget",
+      "description": "Aroma bunga lily of the valley yang bersih, segar, dan lembut.",
+      "category": "women",
+      "price": 2000000,
+      "rating": 4.1,
+      "stock": 58,
+      "thumbnail": "images/muget.jpg"
+    },
+    {
+      "id": 14,
+      "title": "La tulipe",
+      "description": "Wangi bunga tulip yang segar dan lembut dengan kesan bersih dan natural.",
+      "category": "women",
+      "price": 599000,
+      "rating": 4.5,
+      "stock": 36,
+      "thumbnail": "images/la-tulipe.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Aqua Allegoria",
+      "description": "Wangi segar dan floral dengan nuansa ceria, cocok untuk cuaca hangat.",
+      "category": "women",
+      "price": 999000,
+      "rating": 4.9,
+      "stock": 14,
+      "thumbnail": "images/aqua-allegoria.jpg"
+    },
+  
+    {
+      "id": 16,
+      "title": "Myrrh tonka",
+      "description": "Aroma hangat dan sedikit manis dengan nuansa rempah dan kacang tonka.",
+      "category": "men",
+      "price": 599000,
+      "rating": 4.4,
+      "stock": 43,
+      "thumbnail": "images/myrrh-tonka.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Kyoto Redy",
+      "description": "Wangi hangat dengan sentuhan rempah dan kayu, berkesan misterius.",
+      "category": "men",
+      "price": 999000,
+      "rating": 4.1,
+      "stock": 60,
+      "thumbnail": "images/kyoto-redy.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Black OPY",
+      "description": "Wangi manis hangat yang pekat dan berkarakter, cocok untuk malam hari.",
+      "category": "men",
+      "price": 2000000,
+      "rating": 4.8,
+      "stock": 21,
+      "thumbnail": "images/black-opy.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Tobaco mandarin",
+      "description": "Perpaduan tembakau yang hangat dengan jeruk mandarin yang segar.",
+      "category": "men",
+      "price": 1700000,
+      "rating": 4.5,
+      "stock": 38,
+      "thumbnail": "images/tobaco-mandarin.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Tobaco Vanille",
+      "description": "Aroma tembakau dan vanila yang hangat, creamy, dan mewah.",
+      "category": "men",
+      "price": 1800000,
+      "rating": 4.2,
+      "stock": 55,
+      "thumbnail": "images/tobaco-vanille.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Oliver Peoples",
+      "description": "Wangi kayu hijau yang earthy dan tenang, berkesan elegan dan maskulin.",
+      "category": "men",
+      "price": 2000000,
+      "rating": 4.9,
+      "stock": 16,
+      "thumbnail": "images/oliver-peoples.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Oud Wood",
+      "description": "Aroma kayu oud yang dalam dan hangat, terasa mewah dan maskulin.",
+      "category": "men",
+      "price": 999000,
+      "rating": 4.6,
+      "stock": 33,
+      "thumbnail": "images/oud-wood.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Marly",
+      "description": "Wangi aromatik yang segar dan elegan dengan sentuhan kayu, berkelas.",
+      "category": "men",
+      "price": 2500000,
+      "rating": 4.3,
+      "stock": 50,
+      "thumbnail": "images/marly.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Oajan",
+      "description": "Aroma pekat dan berkarakter, premium dengan kesan maskulin dan tahan lama.",
+      "category": "men",
+      "price": 5000000,
+      "rating": 4.9,
+      "stock": 11,
+      "thumbnail": "images/oajan.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Amouage Journey",
+      "description": "Wangi hangat dan berani dengan sentuhan rempah, mewah dan berkelas.",
+      "category": "men",
+      "price": 900000,
+      "rating": 4.7,
+      "stock": 28,
+      "thumbnail": "images/amouage-journey.jpg"
+    },
+    {
+      "id": 26,
+      "title": "X Torinzi",
+      "description": "Aroma mewah dengan perpaduan segar dan hangat, cocok untuk acara spesial.",
+      "category": "men",
+      "price": 5000000,
+      "rating": 4.4,
+      "stock": 45,
+      "thumbnail": "images/x-torinzi.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Mon Dessert",
+      "description": "Aroma manis yang lembut dengan sentuhan hangat, nyaman dan mudah disukai.",
+      "category": "men",
+      "price": 2000000,
+      "rating": 4.1,
+      "stock": 6,
+      "thumbnail": "images/mon-dessert.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Flexico Sigt",
+      "description": "Wangi kayu hangat dengan kesan unik dan eksklusif.",
+      "category": "men",
+      "price": 3000000,
+      "rating": 4.8,
+      "stock": 23,
+      "thumbnail": "images/flexico-sigt.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Jade Zatoru",
+      "description": "Aroma segar dan bersih dengan nuansa hijau yang minimalis dan tenang.",
+      "category": "men",
+      "price": 599000,
+      "rating": 4.5,
+      "stock": 40,
+      "thumbnail": "images/jade-zatoru.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Oliver Peoples",
+      "description": "Wangi kayu dan rempah yang hangat, earthy, dan berkarakter.",
+      "category": "men",
+      "price": 2000000,
+      "rating": 4.2,
+      "stock": 57,
+      "thumbnail": "images/oliver-peoples-2.jpg"
+    }
+  ]
+}
