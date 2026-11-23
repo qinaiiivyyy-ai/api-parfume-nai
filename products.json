@@ -8,7 +8,7 @@
       "price": 599000,
       "rating": 4.7,
       "stock": 22,
-      "thumbnail": "images/elie-saab.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/elie-saab.png"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 559000,
       "rating": 4.4,
       "stock": 39,
-      "thumbnail": "images/chloe-green.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/chloe-green.png"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 1000000,
       "rating": 4.1,
       "stock": 56,
-      "thumbnail": "images/rose-exposed.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/rose-exposed.png"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 1500000,
       "rating": 4.8,
       "stock": 17,
-      "thumbnail": "images/versace-crystal-noir.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/versace-crystal-noir.png"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "price": 1900000,
       "rating": 4.5,
       "stock": 34,
-      "thumbnail": "images/tega-knot.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/tega-knot.png"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "price": 1500000,
       "rating": 4.2,
       "stock": 51,
-      "thumbnail": "images/yellow-daisy.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/yellow-daisy.png"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "price": 999000,
       "rating": 4.9,
       "stock": 12,
-      "thumbnail": "images/scarlet-popy.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/scarlet-popy.png"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "price": 899000,
       "rating": 4.6,
       "stock": 29,
-      "thumbnail": "images/daisy-love.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/daisy-love.png"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "price": 650000,
       "rating": 4.3,
       "stock": 46,
-      "thumbnail": "images/butterfly-love.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/butterfly-love.png"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "price": 5000000,
       "rating": 4,
       "stock": 7,
-      "thumbnail": "images/ocean-gioia.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/miss-ocean.png"
     },
     {
       "id": 11,
@@ -108,7 +108,7 @@
       "price": 3000000,
       "rating": 4.7,
       "stock": 24,
-      "thumbnail": "images/pink-daisy.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/pink-daisy.png"
     },
     {
       "id": 12,
@@ -118,7 +118,7 @@
       "price": 559000,
       "rating": 4.4,
       "stock": 41,
-      "thumbnail": "images/my-wayy.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/my-wayy.png"
     },
     {
       "id": 13,
@@ -128,7 +128,7 @@
       "price": 2000000,
       "rating": 4.1,
       "stock": 58,
-      "thumbnail": "images/muget.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/muget.png"
     },
     {
       "id": 14,
@@ -138,7 +138,7 @@
       "price": 599000,
       "rating": 4.5,
       "stock": 36,
-      "thumbnail": "images/la-tulipe.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/bluebell.png"
     },
     {
       "id": 15,
@@ -148,9 +148,8 @@
       "price": 999000,
       "rating": 4.9,
       "stock": 14,
-      "thumbnail": "images/aqua-allegoria.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/aqua-allegoria.png"
     },
-  
     {
       "id": 16,
       "title": "Myrrh tonka",
@@ -159,7 +158,7 @@
       "price": 599000,
       "rating": 4.4,
       "stock": 43,
-      "thumbnail": "images/myrrh-tonka.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/myrrh-tonka.png"
     },
     {
       "id": 17,
@@ -169,7 +168,7 @@
       "price": 999000,
       "rating": 4.1,
       "stock": 60,
-      "thumbnail": "images/kyoto-redy.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/kyoto-redy.png"
     },
     {
       "id": 18,
@@ -179,7 +178,7 @@
       "price": 2000000,
       "rating": 4.8,
       "stock": 21,
-      "thumbnail": "images/black-opy.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/black-opy.png"
     },
     {
       "id": 19,
@@ -189,17 +188,17 @@
       "price": 1700000,
       "rating": 4.5,
       "stock": 38,
-      "thumbnail": "images/tobaco-mandarin.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/tobaco-mandarin.png"
     },
     {
       "id": 20,
-      "title": "Tobaco Vanille",
+      "title": "Mojave Ghost",
       "description": "Aroma tembakau dan vanila yang hangat, creamy, dan mewah.",
       "category": "men",
       "price": 1800000,
       "rating": 4.2,
       "stock": 55,
-      "thumbnail": "images/tobaco-vanille.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/mojave-ghost.png"
     },
     {
       "id": 21,
@@ -209,7 +208,7 @@
       "price": 2000000,
       "rating": 4.9,
       "stock": 16,
-      "thumbnail": "images/oliver-peoples.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/oliver-peoples.png"
     },
     {
       "id": 22,
@@ -219,7 +218,7 @@
       "price": 999000,
       "rating": 4.6,
       "stock": 33,
-      "thumbnail": "images/oud-wood.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/oud-wood.png"
     },
     {
       "id": 23,
@@ -229,7 +228,7 @@
       "price": 2500000,
       "rating": 4.3,
       "stock": 50,
-      "thumbnail": "images/marly.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/marly.png"
     },
     {
       "id": 24,
@@ -239,7 +238,7 @@
       "price": 5000000,
       "rating": 4.9,
       "stock": 11,
-      "thumbnail": "images/oajan.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/oajan.png"
     },
     {
       "id": 25,
@@ -249,7 +248,7 @@
       "price": 900000,
       "rating": 4.7,
       "stock": 28,
-      "thumbnail": "images/amouage-journey.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/amouage-journey.png"
     },
     {
       "id": 26,
@@ -259,7 +258,7 @@
       "price": 5000000,
       "rating": 4.4,
       "stock": 45,
-      "thumbnail": "images/x-torinzi.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/x-torinzi.png"
     },
     {
       "id": 27,
@@ -269,7 +268,7 @@
       "price": 2000000,
       "rating": 4.1,
       "stock": 6,
-      "thumbnail": "images/mon-dessert.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/mon-dessert.png"
     },
     {
       "id": 28,
@@ -279,7 +278,7 @@
       "price": 3000000,
       "rating": 4.8,
       "stock": 23,
-      "thumbnail": "images/flexico-sigt.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/flexico-sigt.png"
     },
     {
       "id": 29,
@@ -289,17 +288,17 @@
       "price": 599000,
       "rating": 4.5,
       "stock": 40,
-      "thumbnail": "images/jade-zatoru.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/jade-zatoru.png"
     },
     {
       "id": 30,
-      "title": "Oliver Peoples",
+      "title": "Blanche",
       "description": "Wangi kayu dan rempah yang hangat, earthy, dan berkarakter.",
       "category": "men",
       "price": 2000000,
       "rating": 4.2,
       "stock": 57,
-      "thumbnail": "images/oliver-peoples-2.jpg"
+      "thumbnail": "https://qinaiiivyyy-ai.github.io/api-parfume-nai/images/blanche.png"
     }
   ]
 }
